@@ -1,0 +1,9 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "d",
+  "main": "index.js",
+  "repository": "https://github.com/akiryk/fem-jamstack-yo.git",
+  "author": "adamkiryk <adamkiryk@gmail.com>",
+  "license": "MIT"
+}
