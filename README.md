@@ -39,3 +39,5 @@ Create a serverless site using Netlify and Gatsby.
   "singleQuote": true
 }
 ```
+
+End.
